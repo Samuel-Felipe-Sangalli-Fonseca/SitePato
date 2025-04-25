@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #07ff98;
+    color: #042b1a;
+    text-align: center;
+    overflow: hidden;
+}
+  img{
+    height: 100px;
+  }
+#pato {
+    position: absolute ;
+    transition: 0.5s ;
+    cursor: pointer;
+}
+
+
+  
